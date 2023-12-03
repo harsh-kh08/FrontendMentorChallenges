@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+  <title>Frontend Mentor | QR code component</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+body
+{
+  height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin: 0px;
+background-color:  hsl(212, 45%, 89%)
+}
+
+.qr-container
+{
+  text-align: center;
+  background-color: hsl(0, 0%, 100%);
+  max-width: 280px;
+  flex-shrink: 1;
+  padding: 15px;
+ border-radius: 5%;
+ margin-bottom: 60px;
+}
+
+
+p
+{
+  margin:20px 0px;
+}
+
+
+img
+{
+  width: 280px;
+  border-radius: 5%;
+}
+
+#heading
+{
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+color: hsl(218, 44%, 22%);
+}
+
+#description
+{
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+}
+
+  </style>
+
+
+</head>
+<body>
+
+<div class="qr-container">
+
+<img src="./images/image-qr-code.png" alt="QR-Code" width="287px" height="287px">
+
+
+  <p id="heading">Improve your front-end skills by building projects</p>
+
+  <p id="description">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+
+</div>
+
+ 
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Harsh Khandelwal</a>.
+  </div>
+</body>
+</html>

@@ -24,8 +24,8 @@ Building A QR Code Component using HTML and CSS
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/harsh-kh08/FrontendMentorChallenges/tree/master/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-challenges-fvg3tzs2c-harsh-kh08s-projects.vercel.app/)
+- Solution URL: [FrontendMentorChallenges/tree/master/qr-code-component-main](https://github.com/harsh-kh08/FrontendMentorChallenges/tree/master/qr-code-component-main)
+- Live Site URL: [qrcodecomponent-harsh-kh08.vercel.app](https://qrcodecomponent-harsh-kh08.vercel.app)
 
 ### Built with
 

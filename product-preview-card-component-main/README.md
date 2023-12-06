@@ -22,8 +22,8 @@ Building a Product preview card component
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository Link](https://github.com/harsh-kh08/FrontendMentorChallenges/tree/master/product-preview-card-component-main)
+- Live Site URL: [Live Link](https://productviewcard-harsh-kh08.vercel.app)
 
 ### Built with
 
@@ -73,6 +73,6 @@ body {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+
 - Frontend Mentor - [@harsh-kh08](https://www.frontendmentor.io/profile/harsh-kh08)
 - Twitter - [@HarshOnXApp](https://twitter.com/HarshOnXApp)

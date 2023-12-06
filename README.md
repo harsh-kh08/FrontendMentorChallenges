@@ -6,6 +6,6 @@ All the projects are hosted on Vercel
 
 ### List of the projects
 
-| Project Name and Live Link               | Repo Link           |
-| ---------------------------------------- | ------------------- |
-| 1. [Single price grid component](https://qrcodecomponent-harsh-kh08.vercel.app) | [repo link](https://github.com/harsh-kh08/FrontendMentorChallenges) |
+| Project Name and Live Link                                            | Repo Link                                                           |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 1. [QR Code Component](https://qrcodecomponent-harsh-kh08.vercel.app) | [repo link](https://github.com/harsh-kh08/FrontendMentorChallenges) |

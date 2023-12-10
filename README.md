@@ -9,4 +9,5 @@ All the projects are hosted on Vercel
 | Project Name and Live Link                                            | Repo Link                                                           |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | 1. [QR Code Component](https://qrcodecomponent-harsh-kh08.vercel.app) | [repo link](https://github.com/harsh-kh08/FrontendMentorChallenges) |
-| 1. [Product Preview Card Component](https://productviewcard-harsh-kh08.vercel.app) | [repo link](https://github.com/harsh-kh08/FrontendMentorChallenges) |
+| 2. [Product Preview Card Component](https://productviewcard-harsh-kh08.vercel.app) | [repo link](https://github.com/harsh-kh08/FrontendMentorChallenges) |
+| 3. [FAQ Accordian Project Component](https://faqaccordian-harsh-kh08.vercel.app) | [repo link](https://github.com/harsh-kh08/FrontendMentorChallenges/tree/master/faq-accordion-main) |

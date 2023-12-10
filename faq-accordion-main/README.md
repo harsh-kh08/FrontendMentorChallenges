@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [harsh-kh08/FrontendMentorChallenges/tree/master/faq-accordion-main](https://github.com/harsh-kh08/FrontendMentorChallenges/tree/master/faq-accordion-main)
+- Live Site URL: [faqaccordian-harsh-kh08.vercel.app](https://faqaccordian-harsh-kh08.vercel.app/)
 
 ### Built with
 
@@ -61,5 +61,5 @@ Major learnings from this project :
 ## Author
 
 - Website - [Harsh Khandelwal]()
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/harsh-kh08)
-- Twitter - [@yourusername](https://twitter.com/HarshOnXApp)
+- Frontend Mentor - [@harsh-kh08](https://www.frontendmentor.io/profile/harsh-kh08)
+- Twitter - [@HarshOnXApp](https://twitter.com/HarshOnXApp)

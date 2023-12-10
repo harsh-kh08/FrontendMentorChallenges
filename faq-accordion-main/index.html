@@ -25,7 +25,7 @@ body
   align-items: center;
   background-image: url(./assets/images/background-pattern-desktop.svg);
   background-position: top;
-  background-size: 100% ;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-color: hsl(275, 100%, 97%);
   margin: 10px;
@@ -60,12 +60,6 @@ h1
   margin-top: 0px;
   margin-bottom: 10px;
 }
-
-
-/* img
-{
-  margin-right: 1%;
-} */
 
 .question
 {
@@ -114,6 +108,13 @@ line-height: 1.5rem;
   display: none;
 }
 
+@media (max-width:600px)
+{
+  body
+  {
+    background-size: 120vh;
+  }
+}
 
     .attribution { font-size: 11px; text-align: center; margin-top: 2rem;}
     .attribution a { color: hsl(228, 45%, 44%); }
@@ -151,7 +152,7 @@ line-height: 1.5rem;
 
   
   <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
     Coded by <a href="#">Harsh Khandelwal</a>
   </div>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>

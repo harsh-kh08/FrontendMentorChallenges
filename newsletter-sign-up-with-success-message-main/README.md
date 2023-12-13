@@ -30,14 +30,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./solution-signup-page.jpg)
-
-![](./solution-success.jpg)
+![SignUp Page](./solution-signup-page.jpg)
+![Success Message Page](./solution-success.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Link](https://github.com/harsh-kh08/FrontendMentorChallenges/tree/master/newsletter-sign-up-with-success-message-main)
+- Live Site URL: [Live Link](https://frontend-mentor-challenges-harsh-kh08-newsletter-signup.vercel.app/)
 
 ### Built with
 
@@ -66,6 +65,6 @@ const regex_pattern =
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Website Link](https://frontend-mentor-challenges-harsh-kh08-newsletter-signup.vercel.app)
 - Frontend Mentor - [@harsh-kh08](https://www.frontendmentor.io/profile/harsh-kh08)
 - Twitter - [@HarshOnXApp](https://twitter.com/HarshOnXApp)

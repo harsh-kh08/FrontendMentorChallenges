@@ -1,0 +1,102 @@
+body
+{
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0px;
+background-color: hsl(235, 18%, 26%);
+}
+
+.container
+{
+    max-width: 340px;
+    flex:1;
+    flex-shrink: 1;
+    background-color:  hsl(0, 0%, 100%);
+    border-radius: 8%;
+    padding: 40px 40px;
+    margin: 20px;
+}
+
+.sucess-heading
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 3rem;
+    color:hsl(234, 29%, 20%);
+    margin: 20px 0px;
+    font-weight: 500;
+}
+
+
+
+.message
+{
+    font-size: 13px;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px 0px 35px 0px;
+    font-weight: 400px;
+    line-height: 1.25rem;
+}
+
+span
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+
+.dismiss-button
+{
+  height: 55px;
+  border-radius: 10px;
+  background-color: hsl(234, 29%, 20%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+
+
+.dismiss-button:hover
+{
+  /* background-color: hsl(4, 100%, 67%); */
+  background: linear-gradient(300deg, hsl(231, 31%, 22%), #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 10s ease infinite;
+
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.dismiss-text
+{
+color: hsl(0, 0%, 100%);  
+text-align: center;
+}
+
+
+@media (max-width: 375px) {
+
+
+body
+{
+  background-color: hsl(0, 0%, 100%); ;
+}
+
+
+
+}

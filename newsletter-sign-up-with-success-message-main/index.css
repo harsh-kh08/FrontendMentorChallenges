@@ -190,13 +190,15 @@ text-align: center;
 body
 {
   align-items: flex-start;
-  height: 100dvh;
+  height: 120dvh;
+  background-color: hsl(0, 0%, 100%); 
   
 }
 
 
       .container
       {
+        height: 120dvh;
         display: grid;
         grid-template-columns: minmax(auto,757px);
         grid-template-rows: auto auto;
@@ -234,5 +236,16 @@ height: auto;
 {
   display: none;
 }      
+
+.email-input
+{
+  width: 375px;
+}
+
+.subscribe-button
+{
+  width: 375px;
+}
+
 
       }

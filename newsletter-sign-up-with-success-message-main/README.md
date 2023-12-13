@@ -31,7 +31,7 @@ Users should be able to:
 ### Screenshot
 
 ![SignUp Page](./solution-signup-page.jpg)
-![Success Message Page](./solution-success.jpg)
+![Success Message Page](./solution-success-page.jpg)
 
 ### Links
 
